@@ -1,6 +1,6 @@
 {
-  "name": "first-vite-react-app",
   "homepage": "https://krishna-rawat-hp.github.io/nextjs-app",
+  "name": "first-vite-react-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
